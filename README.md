@@ -1,6 +1,10 @@
 # my_grocery_flutter_app
 
-A new Flutter project.
+## Some screenshots
+![image](https://github.com/user-attachments/assets/8b9eab7d-480d-4683-b621-b959bc1e3e9f)
+![image](https://github.com/user-attachments/assets/fc9d2181-8b50-45f9-af87-15eae805d9db)
+![image](https://github.com/user-attachments/assets/64672479-672c-447b-a266-f369d940fa79)
+
 
 ## Getting Started
 
